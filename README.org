@@ -1,0 +1,9 @@
+#+TITLE: CS223
+
+* About
+Various CS223 projects.
+* Projects
+** Sorts
+Sorting algorithms and joke sorts. Insertion sort, counting sort, bogosort...
+** PageRank
+Calculates PageRank of node within graph and visualizes graph.
